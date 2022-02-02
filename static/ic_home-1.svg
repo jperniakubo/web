@@ -1,0 +1,10 @@
+<svg id="ic_home" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="ic_m_home" transform="translate(5 4)">
+    <rect id="Rectángulo_8766" data-name="Rectángulo 8766" width="18" height="19" transform="translate(0 0.006)" fill="none"/>
+    <g id="noun_Home_3424372" transform="translate(-1 0.001)">
+      <path id="Trazado_82286" data-name="Trazado 82286" d="M.68,11.54H3.056v7.808a2.376,2.376,0,0,0,2.376,2.376H8.827V16.293H12.9v5.432H16.3a2.376,2.376,0,0,0,2.376-2.376V11.54h2.376a.683.683,0,0,0,.482-1.161L11.346.2a.679.679,0,0,0-.964,0L.2,10.379A.683.683,0,0,0,.68,11.54Z" transform="translate(-0.002 0.006)" fill="#959595"/>
+      <path id="Trazado_82287" data-name="Trazado 82287" d="M25.109,1.777c0-.427-.264-.777-.583-.777H22.583c-.319,0-.583.35-.583.777V2.36l3.109,3.109Z" transform="translate(-6.406 -0.528)" fill="#959595"/>
+    </g>
+  </g>
+  <rect id="Rectángulo_10340" data-name="Rectángulo 10340" width="30" height="30" fill="none"/>
+</svg>

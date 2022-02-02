@@ -1,0 +1,27 @@
+.appBarLogged {
+  background: transparent
+    linear-gradient(93deg, $appBarBlueStart 0%, $appBarBlueEnd 100%) 0% 0%
+    no-repeat padding-box !important;
+}
+.v-list .v-list-item--active.itemsMenu {
+  border-right: 5px solid !important;
+}
+.v-list-item.v-list-item:not(.v-list-item--active) .v-list-item__title,
+.v-list-item .v-list-item__subtitle {
+  color: $txtListItemInactive !important;
+}
+.v-list-item__title,
+.v-list-item__subtitle {
+  text-overflow: initial !important;
+  white-space: normal !important;
+}
+.mainAllViews {
+  padding: 90px 0px 0px 180px !important;
+  background-color: #f4f6fc;
+  background-image: url(/bg_circles.svg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 25%;
+  background-position-x: right;
+  background-position-y: bottom;
+}

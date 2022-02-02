@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <filter id="Elipse_6317" x="0" y="0" width="46" height="46" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ic_star" transform="translate(6 4)">
+    <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Elipse_6317)">
+      <circle id="Elipse_6317-2" data-name="Elipse 6317" cx="17" cy="17" r="17" transform="translate(6 4)" fill="#fff"/>
+    </g>
+    <g id="noun_Favorite_3426808" transform="translate(6.802 6.565)">
+      <g id="_15_favorite" data-name="15 favorite" transform="translate(0 0)">
+        <path id="Trazado_83205" data-name="Trazado 83205" d="M22.373,11.558l-5.5,4a.178.178,0,0,0-.066.2l2.106,6.471a.639.639,0,0,1-.983.714l-5.506-4a.179.179,0,0,0-.2,0l-5.506,4a.639.639,0,0,1-.983-.713l2.106-6.471a.178.178,0,0,0-.066-.2l-5.5-4a.635.635,0,0,1,.374-1.151h6.8a.176.176,0,0,0,.168-.122l2.1-6.471a.636.636,0,0,1,1.21,0l2.1,6.471a.176.176,0,0,0,.168.122H22a.635.635,0,0,1,.374,1.151Z" transform="translate(-2.001 -3.373)" fill="#bcc7d5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="ic_search" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Grupo_5" data-name="Grupo 5" transform="translate(9.067 9.067)">
+    <g id="Grupo_2" data-name="Grupo 2">
+      <g id="Grupo_1" data-name="Grupo 1">
+        <path id="Trazado_1" data-name="Trazado 1" d="M5.3,0a5.3,5.3,0,1,0,5.3,5.3A5.3,5.3,0,0,0,5.3,0Zm0,9.615A4.318,4.318,0,1,1,9.615,5.3,4.323,4.323,0,0,1,5.3,9.615Z" fill="#00a3a1" stroke="#00a3a1" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Grupo_4" data-name="Grupo 4" transform="translate(10.216 10.216)">
+      <g id="Grupo_3" data-name="Grupo 3">
+        <path id="Trazado_2" data-name="Trazado 2" d="M354.729,354.029l-2.838-2.838a.5.5,0,1,0-.7.7l2.838,2.838a.495.495,0,1,0,.7-.7Z" transform="translate(-351.046 -351.046)" fill="#00a3a1" stroke="#00a3a1" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+  <rect id="Rectángulo_8448" data-name="Rectángulo 8448" width="30" height="30" fill="none"/>
+</svg>

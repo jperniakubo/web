@@ -1,0 +1,11 @@
+<svg id="bg_circles" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="568" height="660" viewBox="0 0 568 660">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_8991" data-name="Rectángulo 8991" width="660" height="568" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="bg_circles-2" data-name="bg_circles" transform="translate(568) rotate(90)" clip-path="url(#clip-path)">
+    <ellipse id="Elipse_6312" data-name="Elipse 6312" cx="529.415" cy="472.923" rx="529.415" ry="472.923" transform="translate(88.971 -457.262)" fill="none" stroke="#005eb8" stroke-width="80" opacity="0.038"/>
+    <ellipse id="Elipse_232" data-name="Elipse 232" cx="271.228" cy="242.286" rx="271.228" ry="242.286" transform="translate(347.159 -226.625)" fill="none" stroke="#005eb8" stroke-width="80" opacity="0.038"/>
+  </g>
+</svg>

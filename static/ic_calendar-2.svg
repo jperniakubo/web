@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Grupo_18205" data-name="Grupo 18205" transform="translate(-548 -1246)">
+    <g id="calendario" transform="translate(554 1252)">
+      <g id="Grupo_18188" data-name="Grupo 18188">
+        <g id="Grupo_18187" data-name="Grupo 18187">
+          <path id="Trazado_84572" data-name="Trazado 84572" d="M279,281.827a2.222,2.222,0,0,0,2.219,2.219h2.608a2.222,2.222,0,0,0,2.219-2.219v-2.608A2.222,2.222,0,0,0,283.827,277h-2.608A2.222,2.222,0,0,0,279,279.219Zm2.219-2.608h2.608v2.608h-2.609Z" transform="translate(-263.519 -261.63)" fill="#fff"/>
+          <circle id="Elipse_6401" data-name="Elipse 6401" cx="1.5" cy="1.5" r="1.5" transform="translate(20.864 9.933)" fill="#fff"/>
+          <path id="Trazado_84573" data-name="Trazado 84573" d="M27.3,19.531a1.11,1.11,0,0,0,1.11-1.11V6.658A4.444,4.444,0,0,0,23.97,2.219H22.528V1.11a1.11,1.11,0,1,0-2.219,0v1.11H15.259V1.11a1.11,1.11,0,1,0-2.219,0v1.11H8.046V1.11a1.11,1.11,0,1,0-2.219,0v1.11H4.439A4.444,4.444,0,0,0,0,6.658V23.97a4.444,4.444,0,0,0,4.439,4.439H23.97a4.444,4.444,0,0,0,4.439-4.439,1.11,1.11,0,0,0-2.219,0A2.222,2.222,0,0,1,23.97,26.19H4.439A2.222,2.222,0,0,1,2.219,23.97V6.658A2.222,2.222,0,0,1,4.439,4.439H5.826v1.11a1.11,1.11,0,1,0,2.219,0V4.439h4.994v1.11a1.11,1.11,0,1,0,2.219,0V4.439h5.049v1.11a1.11,1.11,0,1,0,2.219,0V4.439H23.97A2.222,2.222,0,0,1,26.19,6.658V18.422A1.11,1.11,0,0,0,27.3,19.531Z" fill="#fff"/>
+          <circle id="Elipse_6404" data-name="Elipse 6404" cx="1.5" cy="1.5" r="1.5" transform="translate(5.864 9.933)" fill="#fff"/>
+          <circle id="Elipse_6421" data-name="Elipse 6421" cx="1.5" cy="1.5" r="1.5" transform="translate(5.864 14.933)" fill="#fff"/>
+          <circle id="Elipse_6423" data-name="Elipse 6423" cx="1.5" cy="1.5" r="1.5" transform="translate(5.864 19.933)" fill="#fff"/>
+          <circle id="Elipse_6418" data-name="Elipse 6418" cx="1.5" cy="1.5" r="1.5" transform="translate(10.864 9.933)" fill="#fff"/>
+          <circle id="Elipse_6420" data-name="Elipse 6420" cx="1.5" cy="1.5" r="1.5" transform="translate(10.864 14.933)" fill="#fff"/>
+          <circle id="Elipse_6422" data-name="Elipse 6422" cx="1.5" cy="1.5" r="1.5" transform="translate(10.864 19.933)" fill="#fff"/>
+          <circle id="Elipse_6419" data-name="Elipse 6419" cx="1.5" cy="1.5" r="1.5" transform="translate(15.864 9.933)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectángulo_10433" data-name="Rectángulo 10433" width="40" height="40" transform="translate(548 1246)" fill="none"/>
+  </g>
+</svg>

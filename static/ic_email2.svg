@@ -1,0 +1,25 @@
+<svg id="ic_email2" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="Rectángulo_84" data-name="Rectángulo 84" width="40" height="40" fill="none"/>
+  <g id="correo_1_" data-name="correo (1)" transform="translate(8 -50)">
+    <g id="Grupo_11643" data-name="Grupo 11643" transform="translate(1.206 61)">
+      <g id="Grupo_11642" data-name="Grupo 11642" transform="translate(0 0)">
+        <path id="Trazado_82406" data-name="Trazado 82406" d="M46.406,61H26.625a2.085,2.085,0,0,0-.9.211L36.468,71.959l2.409-2.315h0l8.432-8.432A2.085,2.085,0,0,0,46.406,61Z" transform="translate(-25.721 -61)" fill="#005eb8"/>
+      </g>
+    </g>
+    <g id="Grupo_11645" data-name="Grupo 11645" transform="translate(15.854 62.206)">
+      <g id="Grupo_11644" data-name="Grupo 11644" transform="translate(0 0)">
+        <path id="Trazado_82407" data-name="Trazado 82407" d="M346.148,86.728l-7.935,7.935,7.935,7.935a2.084,2.084,0,0,0,.211-.9V87.631A2.085,2.085,0,0,0,346.148,86.728Z" transform="translate(-338.213 -86.728)" fill="#005eb8"/>
+      </g>
+    </g>
+    <g id="Grupo_11647" data-name="Grupo 11647" transform="translate(0 62.206)">
+      <g id="Grupo_11646" data-name="Grupo 11646" transform="translate(0 0)">
+        <path id="Trazado_82408" data-name="Trazado 82408" d="M.211,86.721a2.085,2.085,0,0,0-.211.9v14.062a2.085,2.085,0,0,0,.211.9l7.935-7.935Z" transform="translate(0 -86.721)" fill="#005eb8"/>
+      </g>
+    </g>
+    <g id="Grupo_11649" data-name="Grupo 11649" transform="translate(1.205 71.135)">
+      <g id="Grupo_11648" data-name="Grupo 11648" transform="translate(0 0)">
+        <path id="Trazado_82409" data-name="Trazado 82409" d="M39.368,277.211l-2.409,2.315a.7.7,0,0,1-.994,0l-2.315-2.315-7.935,7.935a2.085,2.085,0,0,0,.9.212H46.4a2.086,2.086,0,0,0,.9-.211Z" transform="translate(-25.714 -277.211)" fill="#005eb8"/>
+      </g>
+    </g>
+  </g>
+</svg>

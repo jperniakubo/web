@@ -1,0 +1,52 @@
+# This is a sample build configuration for JavaScript.
+# Check our guides at https://confluence.atlassian.com/x/14UWN for more examples.
+# Only use spaces to indent your .yml configuration.
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+image: node:14.7.0
+pipelines:
+  branches:
+    development:
+      - step:
+          name: Install Dependencies
+          caches:
+            - node
+          script:
+            - npm install
+      - step:
+          name: Build
+          deployment: development
+          caches:
+            - node
+          script:
+            - npm run generate -- --spa
+            - pipe: atlassian/sftp-deploy:0.5.5
+              variables:
+                USER: $USER
+                SERVER: "$SERVER"
+                REMOTE_PATH: /home/$PROJECT/
+                LOCAL_PATH: "dist/*"
+                DEBUG: "true"
+                EXTRA_ARGS: "-i cert/$USER.pem"
+    production:
+      - step:
+          name: Install Dependencies
+          caches:
+            - node
+          script:
+            - yarn install
+      - step:
+          name: Build
+          deployment: production
+          caches:
+            - node
+          script:
+            - npm run generate:production -- --spa
+            - pipe: atlassian/sftp-deploy:0.5.5
+              variables:
+                USER: $USER
+                SERVER: "$SERVER"
+                REMOTE_PATH: /home/$PROJECT/
+                LOCAL_PATH: "dist/*"
+                DEBUG: "true"
+                EXTRA_ARGS: "-i cert/$PEM.pem"

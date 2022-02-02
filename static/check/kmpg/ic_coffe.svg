@@ -1,0 +1,12 @@
+<svg id="ic_coffe" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="noun_Coffee_1197874" transform="translate(11 7)">
+    <g id="Grupo_10799" data-name="Grupo 10799">
+      <path id="Trazado_81690" data-name="Trazado 81690" d="M1.247,1.662C1.247.935,1.247,0,2.286,0H16.52c1.039,0,1.039.935,1.039,1.662.623,0,1.247.208,1.247.935V4.571a.931.931,0,0,1-.935.935H.935A.931.931,0,0,1,0,4.571V2.6C0,1.87.623,1.662,1.247,1.662Z" fill="#1591da" fill-rule="evenodd"/>
+      <path id="Trazado_81691" data-name="Trazado 81691" d="M37.026,142l-.935,9.351a2.063,2.063,0,0,1-2.078,1.974h-7.9a2.063,2.063,0,0,1-2.078-1.974L23,142h3.532a3.533,3.533,0,0,0,3.532,2.286A3.487,3.487,0,0,0,33.494,142Z" transform="translate(-20.61 -127.247)" fill="#1591da" fill-rule="evenodd"/>
+      <path id="Trazado_81692" data-name="Trazado 81692" d="M30.688,59l-.727,7.584H26.325A3.487,3.487,0,0,0,22.9,64.3a3.533,3.533,0,0,0-3.532,2.286H15.727L15,59Z" transform="translate(-13.442 -52.87)" fill="#1591da" fill-rule="evenodd"/>
+      <path id="Trazado_81693" data-name="Trazado 81693" d="M71.195,132.466c-.1,2.39-4.364,3.013-5.195.831,1.974.416,2.39-.1,2.7-.623C69.117,132.259,69.429,131.635,71.195,132.466Z" transform="translate(-59.143 -118.336)" fill="#1591da" fill-rule="evenodd"/>
+      <path id="Trazado_81694" data-name="Trazado 81694" d="M70.195,118.384c-1.766-.831-2.182-.208-2.6.312-.416.416-.623.935-2.6.416C65,116.513,69.675,115.89,70.195,118.384Z" transform="translate(-58.247 -104.669)" fill="#1591da" fill-rule="evenodd"/>
+    </g>
+  </g>
+  <rect id="Rectángulo_8643" data-name="Rectángulo 8643" width="40" height="40" fill="none"/>
+</svg>

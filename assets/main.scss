@@ -1,0 +1,387 @@
+// app bar
+$appBarBlueStart: #02338d;
+$appBarBlueEnd: #03499f;
+
+// app bar
+$txtListItemInactive: #959595;
+
+// text
+$txtBlack: #001d38;
+$txtBlue1: #00338d;
+$txtGreen1: #00a3a1;
+
+// backgrounds
+$backgroudViewsColor: #f4f6fc;
+
+// other colors
+$white: #ffffff;
+
+// imports scss files
+@import "avatar";
+@import "div";
+@import "font";
+@import "img";
+@import "loggedLayout";
+@import "text";
+@import "loginLayout";
+@import "animation";
+// main styles
+
+.textPolitics {
+  font-size: 0.85em;
+  margin-top: 1.5em;
+  color: black;
+  strong {
+    cursor: pointer;
+    color: #005eb8;
+    text-decoration: underline;
+  }
+}
+
+.backButton {
+  cursor: pointer;
+}
+.TitleCenterHelp {
+  color: #001d38;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.TitleReservationDate {
+  color: #005eb8;
+  font-size: 0.9em;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-left: 0px !important;
+  margin: 1em;
+}
+.itemsCenterHelp {
+  padding-left: 1em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  height: 3.5em;
+  p {
+    margin-top: 0.35em;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #00338d;
+  }
+  h1 {
+    color: #454545;
+    font-size: 1em;
+  }
+}
+.reservaion-button {
+  margin-bottom: 1em !important;
+  margin-left: 0.5em !important;
+}
+.itemsReservations {
+  padding-left: 1em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  height: 3.5em;
+  p {
+    margin-top: 0.35em;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #454f63;
+  }
+  span {
+    font-size: 0.85em;
+    color: #959dad !important;
+    display: contents;
+  }
+}
+.buttonDestination {
+  display: flex;
+  position: relative;
+  bottom: 1em;
+  left: 11em;
+  color: white !important;
+}
+
+.destination-reservationPlaces {
+  width: 200%;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-areas: "icon text";
+  grid-template-columns: 1em 1fr;
+  .gray-square {
+    grid-area: icon;
+  }
+
+  .text {
+    grid-area: text;
+  }
+}
+
+.gray-square {
+  background-color: #b7bec6;
+  width: 0.7em;
+  height: 0.7em;
+}
+
+#calendar-information {
+  padding-left: 1em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  height: 3.5em;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  font-size: 0.9em !important;
+}
+.contactSubtitle {
+  color: #4e4e4e;
+  margin-left: 2.5em;
+}
+.TitleTerms {
+  color: #02338d;
+  font-size: 0.95em;
+}
+.termsText {
+  padding: 3em;
+  background-color: #fafafa;
+  font-size: 0.7em;
+  color: #3a4151;
+  strong {
+    cursor: pointer;
+    color: #005eb8;
+    text-decoration: underline;
+  }
+}
+.codeNumber {
+  font-weight: bold;
+  font-size: 2em;
+  font-family: sfProDisplayBold;
+}
+
+.centerHelpCenter {
+  padding: 3em;
+  padding-bottom: 5em;
+}
+.centerReservations {
+  padding: 3em;
+  margin: 1em;
+}
+
+.ReservationsCard {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+.titleDetailReservation {
+  font-size: 1.05em !important;
+  font-weight: bold !important;
+  color: #454545 !important;
+  padding: 0px !important;
+  margin-left: 0.7em;
+}
+.subtitleDetailReservation {
+  font-size: 0.8em !important;
+  color: #707070 !important;
+  padding-left: 1em;
+}
+#maintitleDetailReservation {
+  color: #001d38;
+  font-weight: 700;
+}
+#SubtitleDateDetailReservation {
+  font-size: 0.9em !important;
+  color: #3a4151 !important;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+#SubtitlePlaceDetailReservation {
+  margin: 0;
+  font-size: 0.8em !important;
+  color: #00a3a1 !important;
+  font-weight: 400;
+  padding: 0px !important;
+}
+#timeReservationCard {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  margin-left: 1em !important;
+  .divitionBlack {
+    border-bottom: #d6d6d6 solid 1px;
+  }
+  p {
+    margin: 0;
+    width: 10%;
+    color: #00338d !important;
+    font-size: 0.8em !important;
+    font-weight: 700;
+  }
+}
+.moreTimeReservation {
+  cursor: pointer;
+  max-width: 0.8em;
+  margin: 0px !important;
+  display: flex;
+  position: relative;
+  top: -5px;
+  left: 175px;
+}
+.moreProfileReservation {
+  cursor: pointer;
+  max-width: 0.8em;
+  margin: 0px !important;
+  display: flex;
+  position: relative;
+  top: -45px;
+  left: 230px;
+}
+.FilterReservation-button {
+  label {
+    margin-bottom: 0px !important;
+    color: #959dad !important;
+    font-size: 0.85em !important;
+    margin-top: 10px !important;
+  }
+}
+
+.profileAvatar {
+  position: relative;
+  z-index: 5;
+  background-color: #ffffff;
+  padding: 0.5em;
+  border-radius: 50em;
+  width: 10em;
+  height: 10em;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+.profileTitle {
+  font-size: 1.5em;
+  color: #454545;
+}
+.labelProfile {
+  color: #3a4151;
+}
+.contentProfile {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: -0.8em;
+  font-size: 1.2em;
+  font-weight: 500;
+  color: #023789;
+}
+.subtitleProfile {
+  margin-top: -1.5em;
+  color: #656565;
+  font-size: 00.85em;
+}
+.titleReserve {
+  color: #005eb8;
+  font-weight: 600;
+}
+.inputReserve {
+  font-size: 0.7em;
+  color: #3a4151;
+  margin-left: 5em;
+  background-color: #f8f8f8;
+  input {
+    font-family: sfProDisplayMedium;
+    // margin-left: 1em;
+    color: #3a4151;
+  }
+  input::placeholder {
+    color: #3a4151 !important;
+    opacity: 1;
+  }
+}
+.toastCustom {
+  padding: 0.5em;
+  margin-bottom: 2em;
+  background-color: #fcedf1;
+  border: 1px solid #f8295d;
+  border-radius: 10px;
+  h1 {
+    margin-top: 0.5em;
+    color: #f8295d;
+    font-size: 1em;
+    font-family: sfProDisplayRegular;
+  }
+  p {
+    font-family: sfProDisplayRegular;
+    color: #000000;
+    font-size: 0.9em;
+  }
+  img {
+    margin-left: 0.5em;
+  }
+}
+.toastCustomSuccess {
+  padding: 0.5em;
+  margin-bottom: 2em;
+  background-color: #edfcf0;
+  border: 1px solid#2CADAD;
+  border-radius: 10px;
+  h1 {
+    margin-top: 0.5em;
+    color: #2cadad;
+    font-size: 1em;
+    font-family: sfProDisplayRegular;
+  }
+  p {
+    font-family: sfProDisplayRegular;
+    color: #000000;
+    font-size: 0.9em;
+  }
+  img {
+    margin-left: 0.5em;
+  }
+}
+.subtitleContact {
+  color: #000000;
+  margin-top: -2em;
+  font-size: 0.7em;
+}
+.dialogTitle {
+  line-height: 1em;
+  font-family: sfProDisplayBold;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #00338d;
+}
+.titleCardHour {
+  color: #001d38;
+  font-family: sfProDisplayMedium;
+  font-weight: normal;
+  font-size: 1.3em;
+}
+.subtitleCardHour {
+  color: #00338d;
+  font-family: sfProDisplaySemiBold;
+}
+.titleTime {
+  display: flex;
+  justify-content: space-evenly;
+  width: 10em;
+  color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #bcc7d5;
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
+}
+.titleCity {
+  font-size: 1em;
+  margin-bottom: 1em;
+  margin-left: 0.5em;
+  font-family: sfProDisplaySemiBold;
+  color: #454545;
+}
+.searchInput {
+  .v-label {
+    font-size: 0.7em;
+  }
+  input {
+    font-size: 0.7em;
+  }
+}
+.v-btn {
+  font-family: sfProDisplayMedium;
+  text-transform: initial;
+}
+.v-dialog {
+  box-shadow: none;
+}

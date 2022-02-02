@@ -1,0 +1,9 @@
+<svg id="ic_car_pool" xmlns="http://www.w3.org/2000/svg" width="109.466" height="87.126" viewBox="0 0 109.466 87.126">
+  <ellipse id="Elipse_6331" data-name="Elipse 6331" cx="43.563" cy="43.563" rx="43.563" ry="43.563" transform="translate(15.638)" fill="#f4f6fc"/>
+  <ellipse id="Elipse_6332" data-name="Elipse 6332" cx="51.382" cy="5.585" rx="51.382" ry="5.585" transform="translate(6.702 75.956)" fill="#a0abbe"/>
+  <path id="Trazado_83877" data-name="Trazado 83877" d="M58.185,57.473a5.57,5.57,0,1,1,5.57-5.57A5.562,5.562,0,0,1,58.185,57.473Zm0-14.853A9.283,9.283,0,1,0,67.468,51.9,9.287,9.287,0,0,0,58.185,42.62Z" transform="translate(22.333 19.464)" fill="#939cac" fill-rule="evenodd"/>
+  <path id="Trazado_83878" data-name="Trazado 83878" d="M21.223,57.473a5.57,5.57,0,1,1,5.57-5.57A5.562,5.562,0,0,1,21.223,57.473Zm0-14.853A9.283,9.283,0,1,0,30.506,51.9,9.287,9.287,0,0,0,21.223,42.62Z" transform="translate(5.453 19.464)" fill="#939cac" fill-rule="evenodd"/>
+  <path id="Trazado_83879" data-name="Trazado 83879" d="M45.028,31.4v9.283H35.745Zm24.137-1.857v11.14H48.741V29.543Zm16.264,0,11.14,11.14H72.878V29.543Zm18.9,11.14.056-.056L87.731,23.973H76.591V18.4H50.6v5.57h-5.57l-16.71,16.71L.468,46.253v16.71H15.321a11.14,11.14,0,0,1,22.28,0H69.165a11.14,11.14,0,0,1,22.28,0h13V40.683Z" transform="translate(0.214 8.405)" fill="#bac1cc" fill-rule="evenodd"/>
+  <path id="Trazado_83880" data-name="Trazado 83880" d="M50.265,23.988V18.4h7.819v11.17H49.148l-13.4,11.17h22.34v22.34H37.978A11.83,11.83,0,0,0,35.744,57.5a12.08,12.08,0,0,0-5.585-4.468c-2.234-1.117-7.819-1.117-11.17,2.234a12.059,12.059,0,0,0-3.351,7.819H0V45.211l27.925-5.585L44.68,23.988Z" transform="translate(0 8.405)" fill="#a0abbe"/>
+  <rect id="Rectángulo_9063" data-name="Rectángulo 9063" width="4.468" height="11.17" transform="translate(44.68 37.978)" fill="#a0abbe"/>
+</svg>

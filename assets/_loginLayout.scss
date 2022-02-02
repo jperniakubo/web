@@ -1,0 +1,83 @@
+.loginCard {
+  height: auto;
+  max-width: 28em;
+  width: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+  align-items: center;
+  .loginForm {
+    width: 23em !important;
+    margin-top: 0.1em !important;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-bottom: 1em;
+  }
+}
+.logoLogin {
+  text-align: center;
+  img {
+    width: 100%;
+  }
+}
+.logoCardLogin {
+  margin-top: 1.5em;
+  width: 7em;
+  height: auto;
+}
+.loginTitle {
+  padding-bottom: 1em;
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+  color: #023789;
+  opacity: 1;
+}
+.loginSubText {
+  margin-top: -1em;
+  text-align: center;
+  color: #3a4151;
+  opacity: 1;
+}
+
+.inputLogin {
+  width: 18em;
+  height: 3.5em;
+  font-size: 0.7em;
+  color: #454545;
+  input::placeholder {
+    color: #656565 !important;
+    font-size: 0.7em;
+    opacity: 1;
+  }
+}
+.labelInputLogin {
+  color: #454545;
+  font-size: 0.7em;
+}
+.checkBoxLogin {
+  .theme--light {
+    color: #00a3a1 !important;
+  }
+}
+.buttonLogin {
+  width: 15em;
+  margin-left: 3em;
+  font-size: 0.9em;
+}
+.loginHelp {
+  display: block;
+  text-decoration: none;
+  margin-bottom: 1em;
+  color: #00a3a1;
+  font-size: 0.8em;
+  cursor: pointer;
+}
+.loginHelp:hover {
+  font-weight: bold;
+}
+.goToCenterRight {
+  .container {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+}
