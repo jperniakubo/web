@@ -1,0 +1,28 @@
+name: itegracion continua con node.js
+on:
+  push:
+    branches:    
+      - development
+jobs: 
+  ci_to_master:
+    runs-on: ubuntu-latest
+    environment: development
+    steps: 
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with: 
+        node-version: 14.7.0
+        cache: 'npm'
+    - run: npm install
+    - run: npm run generate -- --spa
+    - uses: wlixcc/SFTP-Deploy-Action@v1.0
+      with:
+        username: 'node_kpmg'
+        server: '52.12.254.63'
+        ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
+        local_path: './dist/*'
+        remote_path: '/home/kpmg/'
+        args: '-o ConnectTimeout=5'
+        
+
+    
