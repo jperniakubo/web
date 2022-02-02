@@ -17,11 +17,11 @@ jobs:
     - run: npm run generate -- --spa
     - uses: wlixcc/SFTP-Deploy-Action@v1.0
       with:
-        username: 'node_kpmg'
-        server: '52.12.254.63'
+        username: ${{ secrets.USER }}
+        server: ${{ secrets.SERVER }}
         ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
         local_path: './dist/*'
-        remote_path: '/home/kpmg/'
+        remote_path: '/home/${{ secrets.PROJECT }}/'
         args: '-o ConnectTimeout=5'
         
 
